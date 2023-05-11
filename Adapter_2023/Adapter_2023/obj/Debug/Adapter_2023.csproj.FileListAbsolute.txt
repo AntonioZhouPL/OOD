@@ -1,0 +1,6 @@
+/Users/antoniozhou/Desktop/OOD/Adapter_2023/Adapter_2023/bin/Debug/Adapter_2023.exe
+/Users/antoniozhou/Desktop/OOD/Adapter_2023/Adapter_2023/bin/Debug/Adapter_2023.pdb
+/Users/antoniozhou/Desktop/OOD/Adapter_2023/Adapter_2023/obj/Debug/Adapter_2023.csproj.AssemblyReference.cache
+/Users/antoniozhou/Desktop/OOD/Adapter_2023/Adapter_2023/obj/Debug/Adapter_2023.csproj.CoreCompileInputs.cache
+/Users/antoniozhou/Desktop/OOD/Adapter_2023/Adapter_2023/obj/Debug/Adapter_2023.exe
+/Users/antoniozhou/Desktop/OOD/Adapter_2023/Adapter_2023/obj/Debug/Adapter_2023.pdb

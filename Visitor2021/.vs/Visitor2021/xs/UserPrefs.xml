@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{DB46E216-D534-4A5B-9619-5267FB1F6849}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Visitor2021/Program.cs">
+    <Files>
+      <File FileName="Visitor2021/Program.cs" Line="1" Column="1" />
+      <File FileName="Visitor2021/Enemies/Emeny.cs" Line="23" Column="25" />
+      <File FileName="Visitor2021/Defenders/Warrior.cs" Line="1" Column="1" />
+      <File FileName="Visitor2021/Defenders/RatCatcher.cs" Line="1" Column="1" />
+      <File FileName="Visitor2021/Defenders/Mage.cs" Line="35" Column="10" />
+      <File FileName="Visitor2021/Enemies/Rat.cs" Line="1" Column="1" />
+      <File FileName="Visitor2021/Enemies/Giant.cs" Line="1" Column="1" />
+      <File FileName="Visitor2021/Enemies/Ogre.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Visitor2021" expanded="True">
+            <Node name="Visitor2021" expanded="True">
+              <Node name="Defenders" expanded="True" />
+              <Node name="Enemies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Visitor2021 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

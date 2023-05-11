@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1F161301-3289-492D-A048-052E820DDE39}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MementoPattern/Momento.cs">
+    <Files>
+      <File FileName="MementoPattern/Momento.cs" Line="54" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MementoPattern" expanded="True">
+            <Node name="MementoPattern" expanded="True">
+              <Node name="Momento.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MementoPattern FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

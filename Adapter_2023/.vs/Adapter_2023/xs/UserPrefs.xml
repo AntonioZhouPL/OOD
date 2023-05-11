@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{814AACF2-AE5F-4CF7-A3CF-62264F3EBB61}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adapter_2023/Smoke_Base.cs">
+    <Files>
+      <File FileName="Adapter_2023/Smoke_Base.cs" Line="114" Column="1" />
+      <File FileName="Adapter_2023/Smoke.cs" />
+      <File FileName="Adapter_2023/Adapter.cs" />
+      <File FileName="Adapter_2023/ITarget.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adapter_2023" expanded="True">
+            <Node name="Adapter_2023" expanded="True">
+              <Node name="Smoke_Base.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Adapter__2023 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

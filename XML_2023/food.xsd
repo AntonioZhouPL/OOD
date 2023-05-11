@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="food">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="ingredients">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:choice maxOccurs="unbounded">
+								<xs:element name="meat">
+									<xs:complexType>
+										<xs:sequence>
+											<xs:element name="name" type="xs:string" />
+											<xs:element name="price" type="xs:decimal" />
+											<xs:element minOccurs="0" name="frozen" />
+										</xs:sequence>
+										<xs:attribute name="quality" type="xs:decimal" use="required" />
+									</xs:complexType>
+								</xs:element>
+								<xs:element name="vegetable">
+									<xs:complexType>
+										<xs:sequence>
+											<xs:element name="name" type="xs:string" />
+											<xs:element name="price" type="xs:decimal" />
+										</xs:sequence>
+										<xs:attribute name="quality" type="xs:decimal" use="required" />
+										<xs:attribute name="color" type="xs:string" use="required" />
+									</xs:complexType>
+								</xs:element>
+							</xs:choice>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element maxOccurs="unbounded" name="meal">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="unbounded" name="meat">
+								<xs:complexType>
+									<xs:attribute name="name" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element maxOccurs="unbounded" name="vegetable">
+								<xs:complexType>
+									<xs:attribute name="name" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="name" type="xs:string" use="required" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

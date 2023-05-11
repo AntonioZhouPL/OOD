@@ -1,0 +1,6 @@
+/Users/antoniozhou/Desktop/OOD/Adapter_tutorial/Adapter_tutorial/bin/Debug/Adapter_tutorial.exe
+/Users/antoniozhou/Desktop/OOD/Adapter_tutorial/Adapter_tutorial/bin/Debug/Adapter_tutorial.pdb
+/Users/antoniozhou/Desktop/OOD/Adapter_tutorial/Adapter_tutorial/obj/Debug/Adapter_tutorial.csproj.AssemblyReference.cache
+/Users/antoniozhou/Desktop/OOD/Adapter_tutorial/Adapter_tutorial/obj/Debug/Adapter_tutorial.csproj.CoreCompileInputs.cache
+/Users/antoniozhou/Desktop/OOD/Adapter_tutorial/Adapter_tutorial/obj/Debug/Adapter_tutorial.exe
+/Users/antoniozhou/Desktop/OOD/Adapter_tutorial/Adapter_tutorial/obj/Debug/Adapter_tutorial.pdb

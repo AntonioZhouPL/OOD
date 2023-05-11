@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2B1F92DE-382D-4F51-80BA-EB9E5CA36BA8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2/DoublyLinkedList.cs">
+    <Files>
+      <File FileName="Lab2/DoublyLinkedList.cs" Line="13" Column="29" />
+      <File FileName="Lab2/Vector.cs" Line="137" Column="1" />
+      <File FileName="Lab2/FindAlgorithm.cs" Line="1" Column="1" />
+      <File FileName="Lab2/PrintAlgorithm.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab2" expanded="True">
+            <Node name="Lab2" expanded="True">
+              <Node name="DoublyLinkedList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

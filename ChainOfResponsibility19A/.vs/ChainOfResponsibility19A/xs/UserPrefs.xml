@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{387CC6D8-4FDD-451A-956C-3B44B41E95AD}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChainOfResponsibility19A PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChainOfResponsibility19A/Abstracts.cs">
+    <Files>
+      <File FileName="ChainOfResponsibility19A/Program.cs" Line="52" Column="10" />
+      <File FileName="ChainOfResponsibility19A/Order.cs" Line="1" Column="1" />
+      <File FileName="ChainOfResponsibility19A/Picture.cs" Line="1" Column="1" />
+      <File FileName="ChainOfResponsibility19A/Abstracts.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChainOfResponsibility19A" expanded="True">
+            <Node name="ChainOfResponsibility19A" expanded="True">
+              <Node name="Abstracts.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{147E6CDB-E5C0-4F7C-BA81-B11719B9BCED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Smoke/GameAdapter.cs">
+    <Files>
+      <File FileName="Smoke/Smoke.cs" Line="9" Column="23" />
+      <File FileName="Smoke/Smoke_Base.cs" Line="14" Column="46" />
+      <File FileName="Smoke/GameAdapter.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Smoke" expanded="True">
+            <Node name="Smoke" expanded="True">
+              <Node name="GameAdapter.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Smoke FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

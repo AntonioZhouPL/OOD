@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{77B2A0DA-D0BE-4CF7-A9EB-27F2430B10E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Smoke_Base.cs">
+    <Files>
+      <File FileName="Smoke_Base.cs" Line="18" Column="25" />
+      <File FileName="Iterator.cs" Line="2" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Iterator__2023 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

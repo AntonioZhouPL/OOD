@@ -1,0 +1,6 @@
+/Users/antoniozhou/Desktop/OOD/Iterator/Iterator/bin/Debug/Iterator.exe
+/Users/antoniozhou/Desktop/OOD/Iterator/Iterator/bin/Debug/Iterator.pdb
+/Users/antoniozhou/Desktop/OOD/Iterator/Iterator/obj/Debug/Iterator.csproj.AssemblyReference.cache
+/Users/antoniozhou/Desktop/OOD/Iterator/Iterator/obj/Debug/Iterator.csproj.CoreCompileInputs.cache
+/Users/antoniozhou/Desktop/OOD/Iterator/Iterator/obj/Debug/Iterator.exe
+/Users/antoniozhou/Desktop/OOD/Iterator/Iterator/obj/Debug/Iterator.pdb

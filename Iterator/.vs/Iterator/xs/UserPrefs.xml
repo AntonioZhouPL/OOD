@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A6F11F9D-3AE2-497E-82BC-81CD8A68C3E7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Iterator/Vector.cs">
+    <Files>
+      <File FileName="Iterator/Program.cs" Line="14" Column="26" />
+      <File FileName="Iterator/Vector.cs" Line="154" Column="10" />
+      <File FileName="Iterator/Iterator.cs" Line="3" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iterator" expanded="True">
+            <Node name="Iterator" expanded="True">
+              <Node name="Vector.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Iterator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

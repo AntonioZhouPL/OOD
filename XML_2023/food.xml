@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<food>
+	<ingredients>
+		<meat quality="4">
+			<name>pork</name>
+			<price>8.56</price>
+		</meat>
+		<vegetable quality="1.5" color="orange">
+			<name>carrot</name>
+			<price>2.84</price>
+		</vegetable>
+		<meat quality="3">
+			<name>chicken</name>
+			<price>6.89</price>
+			<frozen/>
+		</meat>
+		<meat quality="3.5">
+			<name>lamb</name>
+			<price>48.33</price>
+			<frozen></frozen>
+		</meat>
+		<vegetable quality="3.6" color="red">
+			<name>beetroot</name>
+			<price>3.24</price>
+		</vegetable>
+	</ingredients>
+	<meal name="Pork with carrotS">
+		<meat name="pork"/>
+		<vegetable name="carrot"/>
+	</meal>
+	<meal name="Chicken with lamB">
+		<meat name="chicken"/>
+		<meat name="lamb"/>
+		<vegetable name="beetroot"/>
+		<vegetable name="beetroot"/>
+		<vegetable name="carrot"/>
+	</meal>
+</food>

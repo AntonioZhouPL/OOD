@@ -1,0 +1,6 @@
+/Users/antoniozhou/Desktop/OOD/Iterator2020/Iterator2020/bin/Debug/Iterator2020.exe
+/Users/antoniozhou/Desktop/OOD/Iterator2020/Iterator2020/bin/Debug/Iterator2020.pdb
+/Users/antoniozhou/Desktop/OOD/Iterator2020/Iterator2020/obj/Debug/Iterator2020.csproj.AssemblyReference.cache
+/Users/antoniozhou/Desktop/OOD/Iterator2020/Iterator2020/obj/Debug/Iterator2020.csproj.CoreCompileInputs.cache
+/Users/antoniozhou/Desktop/OOD/Iterator2020/Iterator2020/obj/Debug/Iterator2020.exe
+/Users/antoniozhou/Desktop/OOD/Iterator2020/Iterator2020/obj/Debug/Iterator2020.pdb

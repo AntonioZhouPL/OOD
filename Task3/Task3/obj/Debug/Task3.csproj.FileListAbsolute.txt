@@ -1,0 +1,13 @@
+/Users/antoniozhou/Desktop/OOD/Task3/Task3/bin/Debug/Task3.exe
+/Users/antoniozhou/Desktop/OOD/Task3/Task3/bin/Debug/Task3.pdb
+/Users/antoniozhou/Desktop/OOD/Task3/Task3/obj/Debug/Task3.csproj.AssemblyReference.cache
+/Users/antoniozhou/Desktop/OOD/Task3/Task3/obj/Debug/Task3.csproj.CoreCompileInputs.cache
+/Users/antoniozhou/Desktop/OOD/Task3/Task3/obj/Debug/Task3.exe
+/Users/antoniozhou/Desktop/OOD/Task3/Task3/obj/Debug/Task3.pdb
+\\Mac\Home\Desktop\OOD\Task3\Task3\bin\Debug\Task3.exe
+\\Mac\Home\Desktop\OOD\Task3\Task3\bin\Debug\Task3.pdb
+\\Mac\Home\Desktop\OOD\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\OOD\Task3\Task3\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\OOD\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\OOD\Task3\Task3\obj\Debug\Task3.exe
+\\Mac\Home\Desktop\OOD\Task3\Task3\obj\Debug\Task3.pdb

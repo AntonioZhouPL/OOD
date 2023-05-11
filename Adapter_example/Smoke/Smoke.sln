@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smoke", "Smoke\Smoke.csproj", "{147E6CDB-E5C0-4F7C-BA81-B11719B9BCED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147E6CDB-E5C0-4F7C-BA81-B11719B9BCED}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{147E6CDB-E5C0-4F7C-BA81-B11719B9BCED}.Debug|anycpu.Build.0 = Debug|anycpu
+		{147E6CDB-E5C0-4F7C-BA81-B11719B9BCED}.Release|anycpu.ActiveCfg = Release|anycpu
+		{147E6CDB-E5C0-4F7C-BA81-B11719B9BCED}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DFFA279-252D-46DA-BBFC-943F0317F1D3}
+	EndGlobalSection
+EndGlobal

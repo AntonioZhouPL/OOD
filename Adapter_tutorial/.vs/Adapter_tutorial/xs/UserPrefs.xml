@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9218B992-4AA2-42F2-8CD2-5178005EBDBB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Adapter__tutorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adapter_tutorial/Program.cs">
+    <Files>
+      <File FileName="Adapter_tutorial/Program.cs" Line="52" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adapter_tutorial" expanded="True">
+            <Node name="Adapter_tutorial" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

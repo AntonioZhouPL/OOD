@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
+    <ProjectGuid>{DB46E216-D534-4A5B-9619-5267FB1F6849}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Visitor2021</RootNamespace>
+    <AssemblyName>Visitor2021</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|anycpu' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Enemies\Emeny.cs" />
+    <Compile Include="Enemies\Giant.cs" />
+    <Compile Include="Enemies\Ogre.cs" />
+    <Compile Include="Enemies\Rat.cs" />
+    <Compile Include="Defenders\Archer.cs" />
+    <Compile Include="Defenders\FireMage.cs" />
+    <Compile Include="Defenders\IDefender.cs" />
+    <Compile Include="Defenders\Mage.cs" />
+    <Compile Include="Defenders\RatCatcher.cs" />
+    <Compile Include="Defenders\Warrior.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Defenders\" />
+    <Folder Include="Enemies\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

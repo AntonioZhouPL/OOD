@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AD65372C-0298-45F2-9262-58E10A2BFFA5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactory2020/SideDish.cs">
+    <Files>
+      <File FileName="AbstractFactory2020/Program.cs" Line="28" Column="18" />
+      <File FileName="AbstractFactory2020/Restaurant.cs" Line="1" Column="1" />
+      <File FileName="AbstractFactory2020/SideDish.cs" Line="1" Column="1" />
+      <File FileName="AbstractFactory2020/MainDish.cs" Line="1" Column="1" />
+      <File FileName="AbstractFactory2020/Dessert.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractFactory2020" expanded="True">
+            <Node name="AbstractFactory2020" expanded="True">
+              <Node name="SideDish.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AbstractFactory2020 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

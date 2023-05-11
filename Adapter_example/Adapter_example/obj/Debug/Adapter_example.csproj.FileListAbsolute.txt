@@ -1,0 +1,6 @@
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Adapter_example/bin/Debug/Adapter_example.exe
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Adapter_example/bin/Debug/Adapter_example.pdb
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Adapter_example/obj/Debug/Adapter_example.csproj.AssemblyReference.cache
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Adapter_example/obj/Debug/Adapter_example.csproj.CoreCompileInputs.cache
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Adapter_example/obj/Debug/Adapter_example.exe
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Adapter_example/obj/Debug/Adapter_example.pdb

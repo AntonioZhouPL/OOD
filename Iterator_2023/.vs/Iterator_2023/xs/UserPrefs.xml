@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{77B2A0DA-D0BE-4CF7-A9EB-27F2430B10E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Iterator_2023/Smoke_Base.cs">
+    <Files>
+      <File FileName="Iterator_2023/Smoke_Base.cs" Line="175" Column="30" />
+      <File FileName="Iterator_2023/Iterator.cs" Line="8" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Iterator_2023" expanded="True">
+            <Node name="Iterator_2023" expanded="True">
+              <Node name="Smoke_Base.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Iterator__2023 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

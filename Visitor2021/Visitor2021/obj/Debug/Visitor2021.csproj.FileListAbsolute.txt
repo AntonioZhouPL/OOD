@@ -1,0 +1,6 @@
+/Users/antoniozhou/Desktop/OOD/Visitor2021/Visitor2021/obj/Debug/Visitor2021.csproj.AssemblyReference.cache
+/Users/antoniozhou/Desktop/OOD/Visitor2021/Visitor2021/obj/Debug/Visitor2021.csproj.CoreCompileInputs.cache
+/Users/antoniozhou/Desktop/OOD/Visitor2021/Visitor2021/bin/Debug/Visitor2021.exe
+/Users/antoniozhou/Desktop/OOD/Visitor2021/Visitor2021/bin/Debug/Visitor2021.pdb
+/Users/antoniozhou/Desktop/OOD/Visitor2021/Visitor2021/obj/Debug/Visitor2021.exe
+/Users/antoniozhou/Desktop/OOD/Visitor2021/Visitor2021/obj/Debug/Visitor2021.pdb

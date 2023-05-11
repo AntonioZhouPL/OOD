@@ -1,0 +1,6 @@
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Smoke/Smoke/obj/Debug/Smoke.csproj.AssemblyReference.cache
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Smoke/Smoke/obj/Debug/Smoke.csproj.CoreCompileInputs.cache
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Smoke/Smoke/bin/Debug/Smoke.exe
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Smoke/Smoke/bin/Debug/Smoke.pdb
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Smoke/Smoke/obj/Debug/Smoke.exe
+/Users/antoniozhou/Desktop/OOD/Adapter_example/Smoke/Smoke/obj/Debug/Smoke.pdb

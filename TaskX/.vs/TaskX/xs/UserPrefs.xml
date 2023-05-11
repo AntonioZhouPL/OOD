@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A0FCFB58-25A8-45D3-9356-F20050CB814F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskX/Shapes/Rectangle.cs">
+    <Files>
+      <File FileName="TaskX/Program.cs" Line="21" Column="13" />
+      <File FileName="TaskX/Shapes/IShape.cs" Line="20" Column="35" />
+      <File FileName="TaskX/Shapes/Rectangle.cs" Line="50" Column="11" />
+      <File FileName="TaskX/Shapes/Cube.cs" Line="49" Column="1" />
+      <File FileName="TaskX/Shapes/Circle.cs" />
+      <File FileName="TaskX/Shapes/Square.cs" Line="49" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskX" expanded="True">
+            <Node name="TaskX" expanded="True" selected="True">
+              <Node name="Shapes" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TaskX FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
